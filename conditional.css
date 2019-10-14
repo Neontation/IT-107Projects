@@ -1,0 +1,9 @@
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    border-color: blue;
+    border-style: groove;
+    border-width: 5px;
+    border-bottom: 15px;
+    border-radius: 20px;
+}
